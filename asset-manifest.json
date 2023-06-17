@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/quran-kareem/static/css/main.fad2bb27.css",
+    "main.js": "/quran-kareem/static/js/main.5b3cded8.js",
+    "static/js/787.d4f9ceb1.chunk.js": "/quran-kareem/static/js/787.d4f9ceb1.chunk.js",
+    "static/media/bg4.png": "/quran-kareem/static/media/bg4.f2ef3935b8da77329585.png",
+    "index.html": "/quran-kareem/index.html",
+    "main.fad2bb27.css.map": "/quran-kareem/static/css/main.fad2bb27.css.map",
+    "main.5b3cded8.js.map": "/quran-kareem/static/js/main.5b3cded8.js.map",
+    "787.d4f9ceb1.chunk.js.map": "/quran-kareem/static/js/787.d4f9ceb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fad2bb27.css",
+    "static/js/main.5b3cded8.js"
+  ]
+}
