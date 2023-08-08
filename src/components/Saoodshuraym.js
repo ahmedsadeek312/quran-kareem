@@ -5,7 +5,7 @@ const Saoodshuraym = () => {
   const [ayasrc, setAyaSrc] = useState([]);
   var [text, setText] = useState([" إضغط علي السورة للإستماع إليها"]);
   useEffect(() => {
-    fetch("https://api.alquran.cloud/v1/quran/ar.saoodshuraym")
+    fetch("https://api.alquran.cloud/v1/quran/ar.saoodshuraym") 
       .then((response) => response.json())
       .then((data) => {
         console.log(data.data.surahs);

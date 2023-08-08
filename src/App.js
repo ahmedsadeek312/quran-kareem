@@ -10,7 +10,6 @@ import Shaatree from "./components/Shaatree";
 import Hudhaify from "./components/Hudhaify";
 import Mahermuaiqly from "./components/Mahermuaiqly";
 import Minshawi from "./components/Minshawi";
-import Muhammadjibreel from "./components/Muhammadjibreel";
 import Saoodshuraym from "./components/Saoodshuraym";
 
 function App() {
@@ -27,8 +26,8 @@ function App() {
         <Route path="/hudhaify" element={<Hudhaify />} />
         <Route path="/mahermuaiqly" element={<Mahermuaiqly />} />
         <Route path="minshawi" element={<Minshawi />} />
-        <Route path="/muhammadjibreel" element={<Muhammadjibreel />} />
         <Route path="/saoodshuraym" element={<Saoodshuraym />} />
+        <Route path="*" element={<HomePage />} />
       </Routes>
     </div>
   );
